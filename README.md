@@ -2,7 +2,7 @@
 
 Designed and developed a web application that generates random passwords based on user preferences. 
 
-## 📌 **Live Site URL:** <a href="https://razorpay-copy.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://rnd-passwordgenerator.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
